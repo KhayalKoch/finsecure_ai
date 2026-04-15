@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+pickle-mixin
+streamlit (for dashboard )
