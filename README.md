@@ -21,7 +21,7 @@ In the first phase, we successfully simulated a realistic fintech environment an
 ### 📈 Performance Visualization
 - Below is the official output from our baseline model, showcasing the precision-recall balance and the confusion matrix.
 
-![Model Performance Results](./assets/model_results.png)
+![Model Performance Results](./assets/model_results.png.png)
 
 ## Technical Implementation
 * **Realistic Simulation:** Uses Log-normal distribution for transaction amounts and pattern-based fraud injection (Salami attacks, Velocity attacks).
