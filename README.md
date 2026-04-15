@@ -1,6 +1,12 @@
 # 🛡️FinSecure AI: Quantitative Risk & Adversarial Resilience
 **AI-driven Fraud Detection with Financial Loss Quantification**
-- FinSecure AI is a high-performance framework designed to bridge the gap between Machine Learning metrics and Financial Risk Management in the banking sector.
+- Most AI models only predict fraud; FinSecure AI calculates its price. This project bridges the gap between machine learning and financial risk management by simulating adversarial attacks and translating them into clear business metrics like Expected Loss (€) and Tail Risk. Through an interactive dashboard, we empower banks and fintechs to move from simple detection to data-driven risk mitigation and ROI-focused decision making.
+
+### Purpose & Impact
+* **Proactive Defense:** Moving from passive monitoring to real-time risk simulation.
+* **Loss Quantification:** Translating model failure into monetary impact (Tail Risk & Mitigation ROI).
+* **Adversarial Resilience:** Stress-testing fraud engines against sophisticated, evolving attacks.
+* **Decision Support:** An interactive dashboard designed for the C-suite to empower data-driven decisions.
 
 ## Week 1: High-Fidelity Foundation
 In the first phase, we successfully simulated a realistic fintech environment and established a robust baseline detection system.
